@@ -7,7 +7,11 @@ it ever becomes possible I can publish it in a way that other people can play it
 # Progression Board
 - ✅ Make a card prefab
 - ✅ Make cards appear
-- :x: Combine cards
+- :x: Combine cards (basically the main gameplay)
+  - :x: Drag and Drop
+  - :x: Drag Onto One Another To Combine To One
+  - :x: Undo Combination
+  - :x: Highlight green when 24
 - :x: Timer
 - :x: Solver
 - :x: Score
