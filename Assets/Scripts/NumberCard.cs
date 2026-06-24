@@ -12,7 +12,7 @@ public class NumberCard : MonoBehaviour
         // maybe do something
     }
 
-    void SetValue(int val)
+    public void SetValue(int val)
     {
         value = val;
         // this will most likely be changed
